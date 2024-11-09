@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Marcelo 
 
-<!--
-**MarceloLamas/MarceloLamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub 🚀. Soy un desarrollador/QA Automation apasionado por la tecnología, la programación y la resolución de problemas. Aquí encontrarás algunos de mis proyectos y experimentos, donde aplico lo que voy aprendiendo y desarrollo nuevas habilidades.
 
-Here are some ideas to get you started:
+## 📚 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Actualmente, estoy profundizando en Programacion Web/Mobile y Automatizacion de pruebas(QA).
+- 🛠️ Me especializo en Java.
+- 💡 Siempre busco nuevos retos y oportunidades de crecimiento.
+- 🎯 Mi objetivo es contribuir a proyectos de código abierto y colaborar en iniciativas que busquen hacer un impacto positivo.
+
+## 🛠️ Habilidades
+
+- **Lenguajes**: Java, Python, JS, C++.
+- **Herramientas**: Git, Docker, Postman, Jenkins, Intelij.
+- **Metodologías**: Agile, Scrum, TDD
+
+## 🚀 Proyectos Destacados
+
+## 📈 Estadísticas de GitHub
+
+![MarceloLamas](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+
+## 📫 Conéctate conmigo
+
+- 📧 Email: marcelolamas2495@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/marcelo-emanuel-lamas-6131a021b/
+
+---
+
+¡Gracias por visitar mi perfil de GitHub! 😊✨
+
+---
