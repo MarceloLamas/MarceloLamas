@@ -19,7 +19,7 @@ Bienvenido a mi perfil de GitHub 🚀. Soy un desarrollador/QA Automation apasio
 
 ## 📈 Estadísticas de GitHub
 
-!(https://github-readme-stats.vercel.app/api?username=MarceloLamas&show_icons=true&theme=radical)
+!![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloLamas&show_icons=true&theme=radical)
 
 ## 📫 Conéctate conmigo
 
